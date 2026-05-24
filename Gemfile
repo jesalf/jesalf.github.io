@@ -11,4 +11,8 @@ platforms :windows, :jruby do
   gem "tzinfo-data"
 end
 
+<<<<<<< HEAD
 #gem "wdm", "~> 0.2.0", :platforms => [:windows]
+=======
+# gem "wdm", "~> 0.2.0", :platforms => [:windows]
+>>>>>>> 6a0473e522b21257dbfe1f3153f9bd5c0972fef2
